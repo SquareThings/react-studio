@@ -1,9 +1,13 @@
 /* Add styling for your page here */
 
-.App {
+.App {}
 
+.BakeryItem {}
+
+.img {
+    max-width: 250px;
 }
 
-.BakeryItem {
-  
+.div {
+    margin-left: 10%;
 }
